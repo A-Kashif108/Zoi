@@ -1,0 +1,21 @@
+/* .progressBar{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    top: 130px;
+    width: 60%;
+    height: 4px;
+    border-radius: 5px;
+    background-color: rgb(151, 151, 151);
+}
+.progressLine{
+    display: flex;
+    flex-direction: row;
+    position:absolute;
+    left: 0px;
+    width: 0%;
+    height: 4px;
+    border-radius: 5px;
+    background-color: rgb(38, 0, 161);
+} */
