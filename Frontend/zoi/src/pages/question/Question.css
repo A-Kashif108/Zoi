@@ -10,7 +10,7 @@
 }
 
 
-.row{
+.row_ques{
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -26,6 +26,7 @@
 }
 
 .test_image{
+    background-color: rgb(26, 235, 182);
     position: absolute;
     left: 0px;
     height: 100vh;
@@ -41,7 +42,7 @@
     object-fit: cover;
 }
 
-.column{
+.column_ques{
     background-color: transparent;
     height: 100%;
     width: 9800px;
@@ -90,23 +91,25 @@
 }
 
 .option{
+    cursor: pointer;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: auto;
-    margin-top: 180px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    font-size: 20px;
     height: 150px;
     width: 150px;
-    background-color:  rgb(187, 188, 246);
+    background-color:  rgb(187, 246, 219);
     color: black;
     border-style: groove;
-    border-radius: 10px;
+    border-radius: 30px;
     opacity: 1.0;
 }
-.option:hover {opacity: 0.6}
+.option:hover {
+    scale: 1.01;
+}
 
 .Ques{
     margin-top: 90px;

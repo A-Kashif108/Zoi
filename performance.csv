@@ -1,0 +1,117 @@
+Gender,issues,Sleep_time,Feeling,Medication,water_intake,screen_time,current_feeling,smoke_drink,physical_activity,junk_food,being_alone,color,music,yourself,food
+Male,No issues,11 pm- 1am,Energetic,Yes,3-5 litres,0-4 hours,Cheerful,None,Quite Frequently,Sometimes,Great,Red,Classical,Self-centered,Meat
+Male,No issues,1 am - 3 am,Energetic,No,1-3 litres,4-8 hours,Blunted,None,Sometimes,Sometimes,Okayish,Yellow,Classical,Average,Anything and everything
+Male,Digestion issues,1 am - 3 am,Stressed,No,3-5 litres,8-12 hours,Stressed,None,Quite Frequently,Quite Frequently,Great,Gray,Pop,Reserved,Anything and everything
+Male,No issues,11 pm- 1am,Energetic,No,3-5 litres,4-8 hours,Stressed,None,Sometimes,Sometimes,Boring,Red,Pop,Average,Anything and everything
+Male,No issues,11 pm- 1am,Energetic,No,3-5 litres,8-12 hours,Cheerful,None,Sometimes,Sometimes,Okayish,Green,Rock,Self-centered,Crunchy food
+Male,Physical discomfort,1 am - 3 am,Stressed,No,3-5 litres,8-12 hours,Stressed,None,Never,Quite Frequently,Boring,Yellow,Classical,Reserved,Meat
+Male,Mental discomfort,1 am - 3 am,Energetic,No,5-7 litres,4-8 hours,Blunted,None,Quite Frequently,Quite Frequently,Boring,Blue,Rock,Social,Anything and everything
+Male,No issues,11 pm- 1am,Stressed,No,5-7 litres,4-8 hours,Stressed,None,Sometimes,Sometimes,Okayish,Green,Pop,Self-centered,Soft and sweet
+Male,Mental discomfort,11 pm- 1am,Stressed,No,3-5 litres,4-8 hours,Irritated,None,Quite Frequently,Sometimes,Great,Blue,Pop,Reserved,Meat
+Male,Mental discomfort,1 am - 3 am,Energetic,No,1-3 litres,4-8 hours,Cheerful,Both,Sometimes,Sometimes,Okayish,Blue,Pop,Reserved,Anything and everything
+Male,Skin problems,1 am - 3 am,Energetic,No,3-5 litres,4-8 hours,Irritated,None,Quite Frequently,Sometimes,Okayish,Blue,Rock,Average,Crunchy food
+Male,Mental discomfort,11 pm- 1am,Anxious,No,3-5 litres,4-8 hours,Blunted,None,Never,Sometimes,Okayish,Green,Classical,Reserved,Anything and everything
+Male,Skin problems,1 am - 3 am,Energetic,No,3-5 litres,4-8 hours,Blunted,Drink,Sometimes,Sometimes,Great,Blue,Rock,Average,Meat
+Male,Mental discomfort,1 am - 3 am,Stressed,No,1-3 litres,4-8 hours,Stressed,None,Never,Quite Frequently,Okayish,Gray,Classical,Reserved,Sugary
+Male,Skin problems,1 am - 3 am,Angry,No,1-3 litres,4-8 hours,Blunted,None,Sometimes,Quite Frequently,Okayish,Green,Classical,Average,Meat
+Male,Skin problems,3am-5am,Energetic,No,3-5 litres,8-12 hours,Cheerful,Drink,Sometimes,Sometimes,Okayish,Blue,Classical,Social,Meat
+Male,Mental discomfort,9pm -11 pm,Anxious,No,1-3 litres,4-8 hours,Irritated,None,Sometimes,Sometimes,Okayish,Green,Classical,Average,Meat
+Male,Mental discomfort,1 am - 3 am,Anxious,No,1-3 litres,8-12 hours,Blunted,Drink,Sometimes,Quite Frequently,Okayish,Gray,Rock,Reserved,Anything and everything
+Male,Skin problems,1 am - 3 am,Stressed,No,3-5 litres,8-12 hours,Stressed,None,Sometimes,Sometimes,Okayish,Yellow,Classical,Average,Crunchy food
+Male,Skin problems,5am-12am,Stressed,No,3-5 litres,8-12 hours,Stressed,None,Sometimes,Sometimes,Great,Blue,Pop,Social,Soft and sweet
+Male,No issues,11 pm- 1am,Angry,No,1-3 litres,4-8 hours,Cheerful,None,Sometimes,Sometimes,Okayish,Green,Electronic Music,Average,Anything and everything
+Female,Skin problems,11 pm- 1am,Energetic,Yes,3-5 litres,0-4 hours,Stressed,None,Quite Frequently,Sometimes,Okayish,Gray,Pop,Social,Anything and everything
+Female,Mental discomfort,1 am - 3 am,Stressed,No,1-3 litres,4-8 hours,Stressed,None,Sometimes,Sometimes,Boring,Blue,Classical,Reserved,Anything and everything
+Male,Skin problems,5am-12am,Stressed,Yes,1-3 litres,8-12 hours,Stressed,Both,Never,Quite Frequently,Great,Gray,Electronic Music,Self-centered,Anything and everything
+Male,Skin problems,1 am - 3 am,Stressed,Yes,1-3 litres,8-12 hours,Stressed,None,Quite Frequently,Sometimes,Boring,Red,Classical,Average,Meat
+Male,"Mental discomfort, Physical discomfort",3am-5am,Stressed,Yes,1-3 litres,8-12 hours,Stressed,None,Never,Quite Frequently,Great,Green,Classical,Self-centered,Crunchy food
+Male,No issues,11 pm- 1am,Anxious,No,3-5 litres,4-8 hours,Cheerful,None,Sometimes,Sometimes,Okayish,Yellow,Electronic Music,Reserved,Anything and everything
+Male,Digestion issues,3am-5am,Energetic,No,1-3 litres,4-8 hours,Cheerful,None,Sometimes,Quite Frequently,Okayish,Blue,Pop,Average,Crunchy food
+Male,No issues,1 am - 3 am,Stressed,No,1-3 litres,4-8 hours,Stressed,Smoke,Quite Frequently,Quite Frequently,Okayish,Blue,Pop,Social,Meat
+Male,"Skin problems, Mental discomfort, Physical discomfort",3am-5am,Energetic,No,5-7 litres,0-4 hours,Cheerful,None,Quite Frequently,Quite Frequently,Okayish,Green,Classical,Average,Anything and everything
+Male,"Mental discomfort, Digestion issues",1 am - 3 am,Energetic,No,3-5 litres,4-8 hours,Blunted,None,Never,Quite Frequently,Great,Blue,Pop,Average,Anything and everything
+Male,"Skin problems, Mental discomfort",11 pm- 1am,Stressed,No,1-3 litres,4-8 hours,Stressed,None,Quite Frequently,Sometimes,Okayish,Blue,Classical,Average,Anything and everything
+Female,"Skin problems, Mental discomfort, Physical discomfort, Digestion issues, No issues",1 am - 3 am,Energetic,No,3-5 litres,4-8 hours,Stressed,None,Sometimes,Sometimes,Great,Green,Rock,Average,Anything and everything
+Male,"Skin problems, Mental discomfort, Physical discomfort",1 am - 3 am,Anxious,Yes,3-5 litres,4-8 hours,Stressed,None,Sometimes,Quite Frequently,Okayish,Green,Pop,Reserved,Anything and everything
+Female,"Mental discomfort, Physical discomfort",1 am - 3 am,Stressed,Yes,3-5 litres,4-8 hours,Blunted,None,Never,Sometimes,Okayish,Gray,Classical,Reserved,Meat
+Male,Skin problems,11 pm- 1am,Energetic,No,3-5 litres,4-8 hours,Cheerful,None,Never,Sometimes,Okayish,Green,Electronic Music,Reserved,Soft and sweet
+Male,Mental discomfort,1 am - 3 am,Anxious,No,3-5 litres,8-12 hours,Blunted,None,Quite Frequently,Quite Frequently,Great,Gray,Rock,Social,Soft and sweet
+Male,"Skin problems, Mental discomfort",1 am - 3 am,Energetic,No,3-5 litres,4-8 hours,Cheerful,None,Sometimes,Sometimes,Great,Gray,Rock,Self-centered,Anything and everything
+Other,"Mental discomfort, Physical discomfort, No issues",3am-5am,Angry,Yes,3-5 litres,8-12 hours,Blunted,None,Sometimes,Quite Frequently,Great,Red,Pop,Reserved,Crunchy food
+Female,No issues,11 pm- 1am,Energetic,No,1-3 litres,4-8 hours,Cheerful,None,Sometimes,Sometimes,Great,Yellow,Pop,Reserved,Crunchy food
+Female,No issues,5am-12am,Anxious,Yes,5-7 litres,8-12 hours,Blunted,Drink,Never,Quite Frequently,,Gray,Electronic Music,Self-centered,Crunchy food
+Male,No issues,11 pm- 1am,Anxious,No,5-7 litres,4-8 hours,Cheerful,None,Quite Frequently,Sometimes,Okayish,Red,Hip Hop,Average,Sugary
+Female,"Skin problems, Mental discomfort, Physical discomfort, Digestion issues",1 am - 3 am,Anxious,Yes,1-3 litres,0-4 hours,Stressed,None,Never,Quite Frequently,Great,Green,Classical,Social,Anything and everything
+Male,Digestion issues,1 am - 3 am,Energetic,No,3-5 litres,4-8 hours,Blunted,Smoke,Quite Frequently,Sometimes,Okayish,Yellow,Hip Hop,Social,Anything and everything
+Male,"Skin problems, Mental discomfort, Physical discomfort, Digestion issues",3am-5am,Anxious,No,3-5 litres,4-8 hours,Stressed,None,Sometimes,Quite Frequently,Great,Gray,Classical,Self-centered,Anything and everything
+Male,"Mental discomfort, Physical discomfort, Digestion issues",5am-12am,Anxious,No,1-3 litres,8-12 hours,Stressed,None,Sometimes,Quite Frequently,Okayish,Green,Pop,Social,Crunchy food
+Male,No issues,1 am - 3 am,Anxious,No,1-3 litres,8-12 hours,Blunted,None,Sometimes,Quite Frequently,Okayish,Blue,Classical,Average,Crunchy food
+Male,Digestion issues,11 pm- 1am,Energetic,No,1-3 litres,0-4 hours,Cheerful,None,Quite Frequently,Sometimes,Okayish,Gray,Hip Hop,Average,Soft and sweet
+Female,"Skin problems, Mental discomfort, Physical discomfort, Digestion issues",9pm -11 pm,Energetic,No,1-3 litres,8-12 hours,Cheerful,None,Never,Sometimes,Okayish,Green,Classical,Social,Soft and sweet
+Male,No issues,3am-5am,Stressed,No,1-3 litres,4-8 hours,Blunted,None,Sometimes,Sometimes,Okayish,Green,Classical,Social,Soft and sweet
+Male,Digestion issues,11 pm- 1am,Stressed,No,3-5 litres,4-8 hours,Irritated,None,Sometimes,Sometimes,Okayish,Gray,Classical,Average,Soft and sweet
+Male,Digestion issues,9pm -11 pm,Energetic,No,1-3 litres,0-4 hours,Cheerful,Smoke,Sometimes,Sometimes,Okayish,Green,Classical,Average,Anything and everything
+Female,Skin problems,3am-5am,Anxious,No,1-3 litres,0-4 hours,Stressed,None,Never,Quite Frequently,Boring,Gray,Classical,Average,Crunchy food
+Male,Digestion issues,1 am - 3 am,Energetic,No,3-5 litres,4-8 hours,Irritated,None,Quite Frequently,Sometimes,Okayish,Gray,Pop,Reserved,Meat
+Female,No issues,11 pm- 1am,Stressed,No,3-5 litres,0-4 hours,Stressed,None,Sometimes,Sometimes,Okayish,Green,Classical,Average,Anything and everything
+Female,"Mental discomfort, Digestion issues",11 pm- 1am,Stressed,Yes,1-3 litres,4-8 hours,Stressed,None,Never,Quite Frequently,Great,Gray,Pop,Reserved,Crunchy food
+Female,"Skin problems, Mental discomfort, Physical discomfort, Digestion issues",1 am - 3 am,Anxious,No,1-3 litres,8-12 hours,Stressed,None,Sometimes,Quite Frequently,Boring,Gray,Pop,Average,Anything and everything
+Female,Mental discomfort,3am-5am,Anxious,No,3-5 litres,8-12 hours,Blunted,Drink,Never,Quite Frequently,Okayish,Gray,Pop,Social,Crunchy food
+Female,Mental discomfort,9pm -11 pm,Anxious,No,1-3 litres,0-4 hours,Irritated,None,Sometimes,Quite Frequently,Great,Blue,Hip Hop,Self-centered,Anything and everything
+Female,Mental discomfort,11 pm- 1am,Stressed,No,1-3 litres,0-4 hours,Stressed,None,Sometimes,Sometimes,Okayish,Green,Pop,Average,Anything and everything
+Female,No issues,11 pm- 1am,Energetic,Yes,1-3 litres,0-4 hours,Cheerful,None,Quite Frequently,Never,Boring,Yellow,Classical,Social,Crunchy food
+Male,No issues,1 am - 3 am,Stressed,No,1-3 litres,0-4 hours,Blunted,None,Quite Frequently,Quite Frequently,Okayish,Gray,Pop,Average,Anything and everything
+Male,"Skin problems, Mental discomfort, Physical discomfort",1 am - 3 am,Energetic,Yes,1-3 litres,8-12 hours,Cheerful,None,Sometimes,Sometimes,Okayish,Blue,Classical,Social,Crunchy food
+Male,"Mental discomfort, Physical discomfort",1 am - 3 am,Anxious,No,1-3 litres,4-8 hours,Irritated,Both,Never,Quite Frequently,Great,Blue,Classical,Self-centered,Sugary
+Male,Skin problems,5am-12am,Energetic,No,1-3 litres,0-4 hours,Cheerful,None,Sometimes,Sometimes,Great,Blue,Rock,Self-centered,Meat
+Male,Skin problems,11 pm- 1am,Stressed,No,1-3 litres,8-12 hours,Stressed,None,Sometimes,Sometimes,Boring,Green,Pop,Average,Soft and sweet
+Male,Mental discomfort,9pm -11 pm,Energetic,No,1-3 litres,4-8 hours,Irritated,None,Quite Frequently,Sometimes,Boring,Green,Classical,Average,Anything and everything
+Male,Skin problems,5am-12am,Stressed,No,1-3 litres,8-12 hours,Irritated,None,Sometimes,Sometimes,Great,Red,Rock,Average,Anything and everything
+Male,No issues,11 pm- 1am,Stressed,No,3-5 litres,0-4 hours,Stressed,None,Sometimes,Sometimes,Boring,Yellow,Electronic Music,Average,Anything and everything
+Male,"Mental discomfort, Physical discomfort",11 pm- 1am,Stressed,No,3-5 litres,4-8 hours,Blunted,None,Quite Frequently,Sometimes,Okayish,Gray,Classical,Average,Soft and sweet
+Male,"Skin problems, Physical discomfort, Digestion issues",11 pm- 1am,Anxious,No,1-3 litres,8-12 hours,Stressed,None,Quite Frequently,Sometimes,Okayish,Green,Pop,Reserved,Crunchy food
+Male,"Skin problems, Digestion issues",1 am - 3 am,Stressed,No,3-5 litres,8-12 hours,Blunted,None,Sometimes,Sometimes,Okayish,Green,Classical,Social,Crunchy food
+Male,"Skin problems, Digestion issues, No issues",11 pm- 1am,Stressed,No,5-7 litres,8-12 hours,Blunted,None,Sometimes,Sometimes,Boring,Yellow,Rock,Average,Anything and everything
+Male,No issues,11 pm- 1am,Energetic,No,1-3 litres,4-8 hours,Cheerful,None,Never,Sometimes,Boring,Green,Rock,Average,Meat
+Male,No issues,11 pm- 1am,Energetic,No,1-3 litres,4-8 hours,Cheerful,None,Never,Never,Great,Blue,Classical,Reserved,Meat
+Male,No issues,11 pm- 1am,Energetic,No,3-5 litres,0-4 hours,Cheerful,None,Quite Frequently,Sometimes,Okayish,Blue,Classical,Reserved,Anything and everything
+Male,"Skin problems, Mental discomfort",9pm -11 pm,Energetic,No,3-5 litres,4-8 hours,Cheerful,None,Sometimes,Sometimes,Great,Gray,Pop,Reserved,Meat
+Male,"Skin problems, Mental discomfort, Physical discomfort",11 pm- 1am,Anxious,No,1-3 litres,8-12 hours,Blunted,None,Quite Frequently,Sometimes,Okayish,Blue,Classical,Reserved,Meat
+Male,Skin problems,11 pm- 1am,Anxious,No,3-5 litres,8-12 hours,Stressed,None,Sometimes,Quite Frequently,Okayish,Gray,Classical,Average,Meat
+Male,Mental discomfort,11 pm- 1am,Anxious,No,1-3 litres,4-8 hours,Irritated,None,Sometimes,Sometimes,Okayish,Gray,Rock,Reserved,Meat
+Male,No issues,11 pm- 1am,Anxious,No,3-5 litres,8-12 hours,Cheerful,None,Sometimes,Quite Frequently,Boring,Yellow,Classical,Social,Bulky and filled up food
+Male,Digestion issues,9pm -11 pm,Anxious,No,1-3 litres,0-4 hours,Irritated,None,Sometimes,Sometimes,Okayish,Red,Classical,Reserved,Sugary
+Male,Skin problems,11 pm- 1am,Energetic,No,1-3 litres,4-8 hours,Stressed,None,Sometimes,Sometimes,Great,Gray,Classical,Average,Anything and everything
+Male,Mental discomfort,11 pm- 1am,Anxious,No,1-3 litres,4-8 hours,Blunted,None,Sometimes,Sometimes,Okayish,Gray,Rock,Self-centered,Meat
+Female,"Skin problems, Digestion issues",1 am - 3 am,Stressed,No,3-5 litres,4-8 hours,Stressed,None,Quite Frequently,Sometimes,Okayish,Gray,Pop,Average,Bulky and filled up food
+Male,"Skin problems, Mental discomfort, Physical discomfort, Digestion issues",3am-5am,Anxious,No,1-3 litres,4-8 hours,Stressed,None,Sometimes,Sometimes,Okayish,Blue,Classical,Average,Soft and sweet
+Male,Skin problems,1 am - 3 am,Energetic,No,1-3 litres,0-4 hours,Cheerful,None,Quite Frequently,Quite Frequently,Okayish,Green,Classical,Social,Crunchy food
+Male,Skin problems,3am-5am,Angry,Yes,3-5 litres,8-12 hours,Irritated,None,Sometimes,Sometimes,Great,Blue,Pop,Self-centered,Anything and everything
+Male,Mental discomfort,1 am - 3 am,Stressed,No,1-3 litres,8-12 hours,Stressed,None,Sometimes,Quite Frequently,Great,Gray,Pop,Reserved,Anything and everything
+Male,Skin problems,9pm -11 pm,Energetic,No,1-3 litres,4-8 hours,Blunted,None,Sometimes,Sometimes,Great,Green,Electronic Music,Self-centered,Meat
+Male,Mental discomfort,11 pm- 1am,Stressed,No,1-3 litres,8-12 hours,Irritated,None,Sometimes,Never,Great,Yellow,Hip Hop,Self-centered,Crunchy food
+Male,"Skin problems, Mental discomfort",1 am - 3 am,Energetic,No,3-5 litres,4-8 hours,Cheerful,None,Sometimes,Sometimes,Okayish,Blue,Electronic Music,Reserved,Meat
+Male,Skin problems,11 pm- 1am,Anxious,No,1-3 litres,8-12 hours,Blunted,None,Quite Frequently,Quite Frequently,Okayish,Gray,Electronic Music,Average,Meat
+Male,"Skin problems, Physical discomfort",1 am - 3 am,Energetic,Yes,1-3 litres,8-12 hours,Stressed,None,Sometimes,Never,Okayish,Gray,Electronic Music,Reserved,Bulky and filled up food
+Male,"Skin problems, Mental discomfort, Physical discomfort, Digestion issues",1 am - 3 am,Anxious,No,5-7 litres,4-8 hours,Blunted,None,Quite Frequently,Sometimes,Okayish,Gray,Pop,Social,Meat
+Male,No issues,1 am - 3 am,Energetic,No,3-5 litres,8-12 hours,Cheerful,None,Quite Frequently,Quite Frequently,Boring,Blue,Rock,Social,Anything and everything
+Male,Mental discomfort,1 am - 3 am,Stressed,No,1-3 litres,4-8 hours,Irritated,None,Quite Frequently,Quite Frequently,Boring,Red,Classical,Average,Crunchy food
+Male,No issues,1 am - 3 am,Energetic,No,1-3 litres,8-12 hours,Blunted,None,Quite Frequently,Sometimes,Okayish,Green,Classical,Reserved,Meat
+Male,No issues,11 pm- 1am,Stressed,No,5-7 litres,4-8 hours,Blunted,None,Sometimes,Quite Frequently,Okayish,Gray,Rock,Self-centered,Bulky and filled up food
+Male,No issues,11 pm- 1am,Stressed,No,3-5 litres,4-8 hours,Cheerful,None,Quite Frequently,Never,Great,Green,Classical,Social,Meat
+Male,"Mental discomfort, Physical discomfort",1 am - 3 am,Anxious,No,1-3 litres,8-12 hours,Blunted,None,Quite Frequently,Sometimes,Boring,Green,Classical,Social,Crunchy food
+Male,"Skin problems, Mental discomfort",11 pm- 1am,Anxious,No,1-3 litres,4-8 hours,Irritated,None,Sometimes,Sometimes,Great,Red,Classical,Self-centered,Anything and everything
+Male,No issues,1 am - 3 am,Stressed,No,3-5 litres,0-4 hours,Blunted,None,Sometimes,Sometimes,Okayish,Gray,Pop,Reserved,Crunchy food
+Male,Skin problems,11 pm- 1am,Energetic,No,5-7 litres,8-12 hours,Blunted,None,Sometimes,Sometimes,Okayish,Yellow,Hip Hop,Average,Crunchy food
+Male,Mental discomfort,11 pm- 1am,Stressed,No,5-7 litres,0-4 hours,Stressed,None,Quite Frequently,Quite Frequently,Boring,Green,Classical,Social,Anything and everything
+Male,"Skin problems, Mental discomfort, Physical discomfort, Digestion issues, No issues",5am-12am,Stressed,Yes,1-3 litres,8-12 hours,Stressed,Both,Never,Quite Frequently,Okayish,Gray,Classical,Reserved,Anything and everything
+Male,"Skin problems, Physical discomfort",11 pm- 1am,Anxious,No,1-3 litres,8-12 hours,Blunted,None,Sometimes,Quite Frequently,Great,Blue,Classical,Average,Anything and everything
+Male,"Mental discomfort, Physical discomfort",11 pm- 1am,Stressed,No,3-5 litres,4-8 hours,Irritated,None,Quite Frequently,Quite Frequently,Okayish,Gray,Classical,Social,Crunchy food
+Male,No issues,11 pm- 1am,Energetic,No,3-5 litres,0-4 hours,Cheerful,None,Quite Frequently,Sometimes,Okayish,Green,Classical,Self-centered,Meat
+Male,"Skin problems, Mental discomfort, Physical discomfort, Digestion issues",11 pm- 1am,Stressed,No,1-3 litres,0-4 hours,Cheerful,None,Sometimes,Quite Frequently,Okayish,Green,Pop,Social,Anything and everything
+Female,"Mental discomfort, Physical discomfort",1 am - 3 am,Stressed,No,1-3 litres,0-4 hours,Irritated,None,Never,Quite Frequently,Boring,Green,Classical,Self-centered,Meat
+Male,Digestion issues,1 am - 3 am,Stressed,No,3-5 litres,8-12 hours,Blunted,Both,Quite Frequently,Quite Frequently,Boring,Red,Rock,Self-centered,Meat
+Female,Skin problems,11 pm- 1am,Energetic,No,1-3 litres,4-8 hours,Stressed,None,Sometimes,Sometimes,Great,Blue,Classical,Reserved,Meat
+Male,Skin problems,11 pm- 1am,Stressed,No,5-7 litres,0-4 hours,Stressed,None,Never,Never,Great,Green,Electronic Music,Self-centered,Meat
+Male,Digestion issues,1 am - 3 am,Anxious,No,3-5 litres,4-8 hours,Blunted,None,Sometimes,Quite Frequently,Okayish,Green,Classical,Self-centered,Meat
+Female,"Skin problems, Mental discomfort, Physical discomfort",1 am - 3 am,Anxious,No,1-3 litres,4-8 hours,Stressed,None,Sometimes,Quite Frequently,Boring,Yellow,Classical,Social,Crunchy food

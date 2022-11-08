@@ -1,0 +1,138 @@
+.login_background{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to right, rgb(26, 235, 182) , rgb(26, 235, 182) 40%, white 40%);
+}
+.logo{
+    position: absolute;
+    top: 35%;
+    left:20%;
+    height: 170px;
+    width: 170px;
+    border-radius: 5%;
+}
+
+.loginBox{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 10%;
+    height: 80%;
+    width: 80%;
+    box-shadow: 0px 0px 100px 5px  rgba(0, 0, 0,0.3);
+    background-image: linear-gradient(to right, rgb(26, 235, 182) , rgb(26, 235, 182) 38.9%, white 38.9%);
+}
+
+
+.loginForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    height:90%;
+    width: 40%;
+}
+form{
+    height: 100%;
+    width: 100%;
+}
+.needHelp{
+    font-weight: 600;
+    color: red;
+    cursor: pointer;
+    position: absolute;
+    top: 1%;
+    right: -15%;
+}
+.login_title{
+    position: relative;
+    top: 10%;
+    font-size: 20px;
+    font-weight: 600;
+}
+.email_input{
+    border: 1px solid rgba(128, 128, 128, 0.386);
+    border-radius: 2px;
+    height: 30px;
+    width: 280px;
+    position: relative;
+    top: 15%;
+
+}
+.password_input{
+    border-radius: 2px;
+    border: 1px solid rgba(128, 128, 128, 0.386);
+    height: 30px;
+    width: 280px;
+    position: relative;
+    top: 24%;
+
+}
+label{
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
+.email{
+    position: relative;
+    top: 13%;
+}
+.password{
+    position: relative;
+    top: 25%;
+    left: -60%;
+
+}
+input{
+    padding-left: 10px;
+}
+input:focus{
+    outline: none;
+}
+
+.login_button{
+    cursor: pointer;
+    position: relative;
+    top: 25%;
+    border-radius: 5px;
+    border: 0px;
+    height: 30px;
+    width: 280px;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: rgb(26, 235, 182);
+}
+
+#loginBtn{
+    position: relative;
+    top: 30%;
+}
+.login_button:hover{
+    scale: 1.005;
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.067);
+}
+
+#em{
+    position: relative;
+    left: -62%;
+    top: 16.5%;
+}
+
+#psd{
+    position: relative;
+    left: -55%;
+}
+
+.create_account{
+    cursor: pointer;
+    position: relative;
+    top: 33%;
+    font-size: 12px;
+    right: -38%;
+}
+.create_account:hover{
+    scale: 1.01;
+}

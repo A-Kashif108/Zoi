@@ -1,0 +1,24 @@
+.registerBackground{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to right, rgb(26, 235, 182) , rgb(26, 235, 182) 40%, white 40%);
+}
+#confPass{
+    position: relative;
+    top: 34%;
+    left: -59.5%;
+}
+
+#confpassword{
+    position: relative;
+    top: 34%;
+}
+
+#signup{
+    position: relative;
+    top: 38%;
+}
