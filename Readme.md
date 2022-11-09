@@ -6,7 +6,7 @@ Zoi is a one stop solution to all the health problems. It provides the solution 
 
 The main purpose of this project is to provide health solutions. It doesnt not have a specific target audience but it caterers to everyone's needs.
 
-----
+
 
 ## Why Zoi is different
 
@@ -14,7 +14,6 @@ Zoi uses complex machine learning algorithms to figure out the current mental st
 
 Zoi stands out because of its dynamic nature and the methodical solutions it provides to the user.
 
-----
 
 ## Future Ambitions
 
