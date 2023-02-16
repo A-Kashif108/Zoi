@@ -1,5 +1,4 @@
 # Zoi
-# Verilog-Pipeline
 
 Name | Enrollment Number
 ---- | ----
